@@ -70,23 +70,17 @@ The ESP32 acts as the central controller, processing commands and controlling mo
 
 ## 🏗️ System Architecture
 
-User Device
-     │
-     ▼
- Web Browser
-     │
-     ▼
-ESP32 Web Server
-     │
- ┌───┴─────────────┐
- │                 │
- ▼                 ▼
-Motor Driver    Servo Motors
- (L298N)       (Robotic Arm)
-     │
-     ▼
- DC Motors
-(Rover Movement)
+User Device  
+↓  
+Web Browser  
+↓  
+ESP32 Web Server  
+↓  
+Motor Driver → DC Motors (Rover Movement)  
+↓  
+Servo Motors (Robotic Arm)
+
+---
 
 ## ⚙️ Working Principle
 
