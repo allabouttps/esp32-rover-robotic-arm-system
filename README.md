@@ -178,26 +178,13 @@ Servo motors control:
 ---
 
 ## 📌 Applications
-
-### 🚀 Space Exploration
 - Sample Collection  
-- Remote Operations  
-
-### 🏭 Industrial Automation
 - Pick-and-Place  
-- Material Handling  
-
-### 🛡️ Defense
-- Bomb Disposal  
-- Hazard Handling  
-
-### 🚑 Disaster Management
-- Search & Rescue  
-- Remote Inspection  
-
-### 🎓 Education
+- Material Handling
 - Electronics Learning  
 - Embedded Systems
+- Robotics
+- Industrial Automation
 ---
 
 ## 🔮 Future Improvements
