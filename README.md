@@ -281,11 +281,6 @@ This repository contains:
 - Vikas Kumar
 - Vishal Jangid
 - Sudhir
-
-### Project Guide
-
-**Mr. Shyam Bambiwal**
-
 ---
 
 ## 🙏 Acknowledgements
@@ -297,14 +292,6 @@ Special thanks to:
 - Ambedkar DSEU Shakarpur Campus-I
 
 for their guidance and support throughout the project.
-
----
-
-## 📜 License
-
-This project is developed for educational and research purposes.
-
-Feel free to use, modify, and improve it with proper attribution.
 
 ---
 
