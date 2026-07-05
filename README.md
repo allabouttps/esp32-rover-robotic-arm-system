@@ -34,7 +34,7 @@ The ESP32 hosts a web server that allows real-time control from any browser.
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demonstration Video
 
 🔗 https://youtu.be/ZPAJIUnQEEs
 
