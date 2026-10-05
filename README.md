@@ -7,6 +7,9 @@ This project integrates a **4-wheeled mobile rover** with a **multi-degree-of-fr
 
 ## 📸 Project Preview
 
+### Complete System
+![Complete System](https://github.com/user-attachments/assets/25e927b6-3199-4462-b503-12b005528525)
+
 ### Rover Platform
 ![Rover Chassis](https://github.com/user-attachments/assets/9799831d-5c76-44c4-a7d0-c9ca8ce7ff69)
 
@@ -16,8 +19,6 @@ This project integrates a **4-wheeled mobile rover** with a **multi-degree-of-fr
 ### Gripper Mechanism
 ![Gripper](https://github.com/user-attachments/assets/db9683c0-9bc1-4678-a4e5-097a8749b8b4)
 
-### Complete System
-![Complete System](https://github.com/user-attachments/assets/25e927b6-3199-4462-b503-12b005528525)
 
 ### Circuit Diagram
 ![Circuit Diagram](https://github.com/user-attachments/assets/2c9d6595-7d86-4f13-b2b6-8305163c7b81)
